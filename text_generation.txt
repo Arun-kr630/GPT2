@@ -1,0 +1,14 @@
+arunkumar12@Amazon-GPU:~$ /bin/python3 /data2/home/arunkumar12/test.py
+rank sample 0: The world is beautiful with U.S. Europe never been 30. Monday said news4Poll show men comments from the debate. He commented last year. she
+rank sample 1: The world is beautiful withIN and an costs that heart posted all- falling New York politics.,Elizabeth Warren could look as strange as the later has yet again this
+rank sample 2: The world is beautiful and well began with rights and another good has been before I threatened toK  from us a way to from at least stateO. 
+rank sample 3: The world is beautiful withIN and heard in other politics.” state said expected’s love was a part of the anything said toin’
+
+
+
+arunkumar12@Amazon-GPU:~$ /bin/python3 /data2/home/arunkumar12/test.py
+rank sample 0: Money is most powerful,” she concludes. Clinton also accused the president of the),: military an stilllyberg in the White House. “All
+rank sample 1: Money is most powerful enough. God bless our brother LERans and that death was more proud to our years. What do you say?” Legend nor
+rank sample 2: Money is most powerful enough. TrumpLANGU leader tried to: Run many thee in  them. They’re not good  he said toD
+rank sample 3: Money is most powerful, think it is, reallyed under Donald Trump that white supremacists.”56 show questions about whether Democrats got case of during the 2020
+arunkumar12@Amazon-GPU:~$ 
